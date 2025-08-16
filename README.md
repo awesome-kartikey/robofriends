@@ -2,8 +2,7 @@
 
 A simple React application that displays a list of "robot friends" fetched from an external API. Users can search through the list to filter the robots by name.
 
-[RoboFriends Screenshot Placeholder]
-https://iamkartikey.vercel.app/project-screenshots/robofriends.png
+![RoboFriends Screenshot Placeholder](https://iamkartikey.vercel.app/project-screenshots/robofriends.png)
 
 ## Features
 
